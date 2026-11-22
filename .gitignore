@@ -13,7 +13,7 @@ resume/*.fls
 resume/*.fdb_latexmk
 
 # Local Jekyll / Ruby build artifacts
-vendor/
+/vendor/
 .bundle/
 .jekyll-cache/
 .jekyll-metadata
