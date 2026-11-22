@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Subhash Gupta"
-description              : "Subhash Gupta, Building production RAG, agentic, and workflow automation to production."
+description              : "Subhash Gupta, GenAI Engineer building production RAG, agentic, and workflow automation to production."
 repository               : "Subh24ai/Subh24ai.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Subhash Gupta"
   avatar           : "assets/profile_picture.png"
-  bio              : "GenAI Engineer shipping RAG, agent, and voice systems to production"
+  bio              : "GenAI Engineer shipping RAG, agent, and workflow automation to production"
   location         : "Gurugram, India"
   email            : "subhashgupta1591@gmail.com"
   github           : "Subh24ai"
