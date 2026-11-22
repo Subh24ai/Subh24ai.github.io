@@ -77,6 +77,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
+      {% if author.huggingface %}
+        <li><a href="https://huggingface.co/{{ author.huggingface }}"><span class="hf-icon" aria-hidden="true">🤗</span> Hugging Face</a></li>
+      {% endif %}
       {% if author.kaggle %}
         <li><a href="https://www.kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i> Kaggle</a></li>
       {% endif %}
@@ -180,6 +183,9 @@
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.huggingface %}
+        <a href="https://huggingface.co/{{ author.huggingface }}" aria-label="Hugging Face"><span class="hf-icon" aria-hidden="true">🤗</span></a>
       {% endif %}
       {% if author.kaggle %}
         <a href="https://www.kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i></a>

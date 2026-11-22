@@ -23,10 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Subhash Gupta"
   avatar           : "assets/profile_picture.png"
-  bio              : "Building production RAG, agentic, and voice AI systems"
+  bio              : "GenAI Engineer shipping RAG, agent, and voice systems to production"
   location         : "Gurugram, India"
   email            : "subhashgupta1591@gmail.com"
   github           : "Subh24ai"
+  huggingface      : "Subh24ai"
   linkedin         : "subhash24gupta"
   twitter          : "Subh24ai"
   cv               : "/resume/Subhash_Gupta_Resume.pdf"

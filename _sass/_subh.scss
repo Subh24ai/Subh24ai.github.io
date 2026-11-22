@@ -33,3 +33,6 @@
   .rag-trace__row { grid-template-columns: 1fr; gap: 0; margin-bottom: 0.3em; }
 }
 [data-theme="dark"] .rag-trace { background: #0a1118; border: 1px solid #26333f; }
+
+/* Hugging Face emoji sized like the Font Awesome icons */
+.hf-icon { display: inline-block; width: 1.28571em; text-align: center; font-size: 0.95em; }
