@@ -63,10 +63,12 @@ Outside work I build **open-source agents end to end**: a multi-agent IT/HR tick
 
 # 🛠 Skills
 
-- **RAG & Agents**: LangGraph, multi-agent workflows, MCP, A2A, tool calling, FAISS, BM25, hybrid retrieval, cross-encoder reranking, text-to-SQL
-- **LLMs**: prompt engineering, Hugging Face, vLLM, LangChain, LlamaIndex, PyTorch, Whisper ASR, TTS
-- **Evals & MLOps**: RAGAS, LangSmith, DSPy, MLflow, W&B, QLoRA, Docker, CI/CD, distributed tracing, latency optimisation
-- **Backend, Cloud & Automation**: Python, SQL, JavaScript, FastAPI, GCP (Cloud Run), AWS (SageMaker, Bedrock), Firestore, SQLite, Playwright
+- **LLMs & Agents**: LangGraph, LangChain, LlamaIndex, multi-agent workflows, tool calling, MCP, A2A, Claude API, DSPy, prompt engineering
+- **Retrieval & Vector Search**: embedding pipelines, FAISS, pgvector, BM25, hybrid retrieval, cross-encoder reranking, query rewriting, text-to-SQL, graph traversal
+- **Models & Fine-tuning**: Hugging Face, PyTorch, QLoRA, vLLM, Whisper ASR, TTS
+- **Evals & Observability**: RAGAS, LangSmith, span-level tracing, MLflow, W&B, CI/CD, latency optimisation
+- **Backend & Cloud**: Python, SQL, JavaScript, FastAPI, PostgreSQL, Redis, Celery, Docker, GCP (Cloud Run, Firestore), AWS (SageMaker, Bedrock, S3, Textract)
+- **Automation**: Playwright, browser automation (RPA), spreadsheet and formula automation
 - **Currently learning**: Databricks (Spark SQL, PySpark, Delta Lake), Snowflake, Azure
 
 # 🎖 Achievements
