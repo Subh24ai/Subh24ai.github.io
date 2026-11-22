@@ -1,0 +1,20 @@
+_site/
+push.sh
+.DS_Store
+
+# original reference résumé at repo root (kept locally, not published)
+/Swayam-Singh-Resume.pdf
+
+# LaTeX résumé scratch (resume.pdf itself is committed and served at /resume/resume.pdf)
+resume/*.aux
+resume/*.log
+resume/*.out
+resume/*.fls
+resume/*.fdb_latexmk
+
+# Local Jekyll / Ruby build artifacts
+vendor/
+.bundle/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/

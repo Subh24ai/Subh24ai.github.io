@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "About"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Experience"
+    url: "/#-experience"
+
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Skills"
+    url: "/#-skills"
+
+  - title: "Achievements"
+    url: "/#-achievements"
+
+  - title: "Education"
+    url: "/#-education"

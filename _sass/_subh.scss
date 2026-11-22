@@ -1,0 +1,35 @@
+/* RAG trace block on the About section (Subhash's addition) */
+.rag-trace {
+  margin: 1.6em 0 0.6em;
+  padding: 1.1em 1.3em 0.9em;
+  background: #15202b;
+  color: #dce4ea;
+  border-radius: 10px;
+  font-family: Monaco, Consolas, "Lucida Console", monospace;
+  font-size: 0.72em;
+  line-height: 1.7;
+  overflow-x: auto;
+}
+.rag-trace__head {
+  display: flex; justify-content: space-between; gap: 1em;
+  font-family: $global-font-family; color: #7f8e99; margin-bottom: 0.6em;
+  strong { color: #fff; font-weight: 600; }
+}
+.rag-trace__q { color: #fff; margin-bottom: 0.5em; }
+.rag-trace__q::before { content: "› "; color: #7f8e99; }
+.rag-trace__row {
+  display: grid; grid-template-columns: 9.5em 1fr; gap: 1em;
+  > span:first-child { color: #7f8e99; }
+}
+.rag-trace .v { font-style: normal; padding: 0 0.45em; border-radius: 3px; margin-right: 0.3em; }
+.rag-trace .v--pass { background: rgba(76,195,138,.2); color: #7fe0b0; }
+.rag-trace .v--cav  { background: rgba(226,166,74,.2); color: #f2c67e; }
+.rag-trace .v--blk  { background: rgba(240,120,98,.2); color: #f7a796; }
+.rag-trace__foot {
+  margin-top: 0.7em; padding-top: 0.6em; border-top: 1px solid #26333f;
+  font-family: $global-font-family; color: #7f8e99;
+}
+@media (max-width: 600px) {
+  .rag-trace__row { grid-template-columns: 1fr; gap: 0; margin-bottom: 0.3em; }
+}
+[data-theme="dark"] .rag-trace { background: #0a1118; border: 1px solid #26333f; }
