@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a **GenAI Engineer at [PwC India](https://www.pwc.in/)**, where I build AI systems that have to be right in production. I architected a **LangGraph RAG system over a large enterprise contract portfolio** that routes each question across four retrieval engines (hybrid vector search, text-to-SQL, graph traversal, and map-reduce comparison) and checks every contractual claim against the retrieved evidence before it reaches the user. I also automate finance workflows with **Playwright**: chartered-accountant spreadsheet filling and purchase-requisition-to-purchase-order processing.
 
-Before PwC, I was an **AI Engineer at Iwayplus** (IIT Delhi Incubation Centre), where I deployed and ran a **production RAG chatbot for a national institute** on GCP at under 2 s per response, cut its latency **60%**, and built the A\* indoor navigation engine used on campus.
+Before PwC, I was an **AI Engineer at [Iwayplus](https://www.iwayplus.com/)** ([IIT Delhi](https://home.iitd.ac.in/) Incubation Centre), where I deployed and ran a **production RAG chatbot for a national institute** on GCP at under 2 s per response, cut its latency **60%**, and built the A\* indoor navigation engine used on campus.
 
 Outside work I build **open-source agents end to end**: a multi-agent IT/HR ticket platform with evals in CI, and a fully offline Hindi–English voice assistant for government schemes running on a model I fine-tuned. I placed in the **top 12 of 118 teams** in the NCIIPC Startup India AI Grand Challenge (RAG retrieval).
 
@@ -34,7 +34,7 @@ Outside work I build **open-source agents end to end**: a multi-agent IT/HR tick
 - _2026.10_: &nbsp;🎓 Earned **Claude Certified Architect – Professional** (Anthropic).
 - _2026.06_: &nbsp;🎉 Joined **PwC India** as a **GenAI Engineer**.
 - _2026.02_: &nbsp;📜 Completed IBM's **Generative AI Engineering with LLMs** specialization.
-- _2025.02_: &nbsp;🎉 Joined **Iwayplus** (IIT Delhi Incubation Centre) as an **AI Engineer**.
+- _2025.02_: &nbsp;🎉 Joined **[Iwayplus](https://www.iwayplus.com/)** ([IIT Delhi](https://home.iitd.ac.in/) Incubation Centre) as an **AI Engineer**.
 <!-- Add the NCIIPC and Apollo Solvathon results here once you've confirmed the month -->
 
 # 💼 Experience
@@ -47,7 +47,7 @@ Outside work I build **open-source agents end to end**: a multi-agent IT/HR tick
   - Implemented **claim-level grounding and entailment checks** that return pass / needs-caveat / blocked for every contractual claim.
   - Instrumented span-level distributed tracing and **339 automated tests**; profiling showed LLM inference was **99.8%** of wall-clock time, which pointed optimisation at the model layer.
   - Automated chartered-accountant spreadsheet filling and end-to-end **PR-to-PO** processing with **Playwright** and JavaScript browser automation.
-- **AI Engineer**, Iwayplus (IIT Delhi Incubation Centre) · Delhi · _Feb 2025 – Apr 2026_
+- **AI Engineer**, [Iwayplus](https://www.iwayplus.com/) ([IIT Delhi](https://home.iitd.ac.in/) Incubation Centre) · Delhi · _Feb 2025 – Apr 2026_
   - Deployed and owned a production **RAG chatbot** for an Indian national institute on GCP: hybrid **FAISS + BM25** retrieval, cross-encoder reranking, multilingual, **sub-2 s** responses for concurrent users.
   - Cut per-request latency **60% (5 s → 2 s)** with FP16 mixed-precision inference and GPU request batching.
   - Built an **A\* pathfinding engine** for indoor navigation: multi-floor routing, floor-change detection, and indoor–outdoor handoff, live on campus.
