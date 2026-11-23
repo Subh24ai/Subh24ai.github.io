@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Subhash Gupta"
   avatar           : "assets/profile_picture.png"
-  bio              : "GenAI Engineer shipping RAG, agent, and workflow automation to production"
+  bio              : "GenAI Engineer shipping RAG, Agentic AI, and workflow automation to production"
   location         : "Gurugram, India"
   email            : "subhashgupta1591@gmail.com"
   github           : "Subh24ai"
